@@ -1,0 +1,9 @@
+pandas
+requests
+pyarrow
+python-dotenv
+tqdm
+streamlit
+scikit-learn
+matplotlib
+xgboost
